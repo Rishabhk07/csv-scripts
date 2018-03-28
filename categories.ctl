@@ -7,3 +7,5 @@ fields terminated by ","
 
 
 
+export ORACLE_HOME=/usr/local/libexec/oracle11g-client/bin/sqlldr
+PATH="$PATH:$ORACLE_HOME/bin"

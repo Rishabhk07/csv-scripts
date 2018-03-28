@@ -1,0 +1,25 @@
+{
+  "name": "thunder-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script_csv-to-db.js",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "oracledb": "^2.1.2",
+    "sworn": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishabhk07/csv-scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rishabhk07/csv-scripts/issues"
+  },
+  "homepage": "https://github.com/Rishabhk07/csv-scripts#readme"
+}
