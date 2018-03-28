@@ -6,6 +6,7 @@
   "dependencies": {
     "csvtojson": "^1.1.9",
     "oracledb": "^2.1.2",
+    "sworm": "^3.7.1",
     "sworn": "^1.0.0"
   },
   "devDependencies": {},
